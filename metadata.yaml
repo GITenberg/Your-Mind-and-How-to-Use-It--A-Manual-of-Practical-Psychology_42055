@@ -1,0 +1,40 @@
+_repo: Your-Mind-and-How-to-Use-It--A-Manual-of-Practical-Psychology_42055
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42055-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Atkinson, William Walker
+    aliases:
+    - Ramacharaka, Yogi
+    - Vishita, Bhakta
+    - Panchadasi, Swami
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '4862'
+    url: http://www.gutenberg.org/2009/agents/4862
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/t#a5407
+    - http://www.gutenberg.org/browse/authors/d#a662
+    - http://en.wikipedia.org/wiki/William_Walker_Atkinson
+description: As one of the leaders of the influential New Thought movement, author
+  William Walker Atkinson had an unshakable belief in the power of the human mind
+  -- and he was convinced that most of us fail to fully tap into its remarkable capabilities.
+  Your Mind and How to Use It offers an interesting overview of the basic principles
+  of what Atkinson calls ""practical psychology,"" including actionable tips and techniques
+  to begin to make use of the innate powers of the human mind.
+gutenberg_issued: '2013-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42055'
+  lccn: '12000306'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Psychology'
+title: 'Your Mind and How to Use It: A Manual of Practical Psychology'
+url: http://www.gutenberg.org/ebooks/42055
